@@ -157,7 +157,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for more details (to be created).
 ---
 
 ## 📄 License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the GNU Affero General Public License (AGPL). See [LICENSE](LICENSE) for details.
 
 ---
 
