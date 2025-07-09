@@ -1,0 +1,7 @@
+# Ignore market research, pitch deck, and roadmap files (md and pdf)
+market_research.md
+market_research.pdf
+pitch_deck.md
+pitch_deck.pdf
+SaaS_Document_Anonymizer_Roadmap.md
+SaaS_Document_Anonymizer_Roadmap.pdf 
