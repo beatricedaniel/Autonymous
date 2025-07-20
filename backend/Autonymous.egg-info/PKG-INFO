@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: Autonymous
+Version: 0.1.0
+Summary: A privacy-first platform for automated document anonymization. Upload documents in various formats, detect and review sensitive information, customize anonymization, and export redacted files securely. Built for legal, healthcare, research, and compliance professionals.
+Author-email: beatricedaniel <beatrice.yk.daniel@protonmail.com>
+License: AGPL (GNU Affero General Public License)
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: click
+Requires-Dist: presidio-analyzer
+Requires-Dist: pandas
+Requires-Dist: openpyxl
+Requires-Dist: python-docx
+Requires-Dist: pytest

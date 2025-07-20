@@ -56,6 +56,7 @@ Autonymous/
 │   ├── app/                  # Main API application code
 │   │   ├── main.py           # FastAPI entrypoint
 │   │   ├── api/              # API route definitions
+│   │   ├── cli/              # CLI orchestration
 │   │   ├── services/         # Business logic, anonymization, detection
 │   │   ├── models/           # Pydantic models, schemas
 │   │   └── utils/            # Utility functions

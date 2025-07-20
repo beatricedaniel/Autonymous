@@ -1,0 +1,6 @@
+pyproject.toml
+Autonymous.egg-info/PKG-INFO
+Autonymous.egg-info/SOURCES.txt
+Autonymous.egg-info/dependency_links.txt
+Autonymous.egg-info/requires.txt
+Autonymous.egg-info/top_level.txt

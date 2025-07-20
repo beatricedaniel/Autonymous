@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  anonymizer:
+    build: .
+    volumes:
+      - ./cli:/app/cli
+      - ./out:/app/out
+    command: ["--help"]

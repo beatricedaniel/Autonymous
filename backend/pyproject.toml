@@ -1,7 +1,7 @@
 [project]
-name = "autonymous"
+name = "Autonymous"
 version = "0.1.0"
-description = "A privacy-first SaaS platform for automated document anonymization. Upload documents in various formats, detect and review sensitive information, customize anonymization, and export redacted files securely. Built for legal, healthcare, research, and compliance professionals."
+description = "A privacy-first platform for automated document anonymization. Upload documents in various formats, detect and review sensitive information, customize anonymization, and export redacted files securely. Built for legal, healthcare, research, and compliance professionals."
 authors = [
     {name = "beatricedaniel",email = "beatrice.yk.daniel@protonmail.com"}
 ]
@@ -9,9 +9,12 @@ license = {text = "AGPL (GNU Affero General Public License)"}
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "click",
+    "presidio-analyzer",
+    "pandas",
+    "openpyxl",
+    "python-docx",
+    "pytest", 
+    "pandoc"
 ]
 
-
-[build-system]
-requires = ["poetry-core>=2.0.0,<3.0.0"]
-build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,6 @@
+click
+presidio-analyzer
+pandas
+openpyxl
+python-docx
+pytest
