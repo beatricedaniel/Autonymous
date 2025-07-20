@@ -1,6 +1,6 @@
-# SaaS Document Anonymizer
+# Autonymous : a document anonymizer
 
-A privacy-first SaaS platform for automated document anonymization. Upload documents in various formats, detect and review sensitive information, customize anonymization, and export redacted files securely. Built for legal, healthcare, research, and compliance professionals.
+A privacy-first platform for automated document anonymization. Upload documents in various formats, detect and review sensitive information, customize anonymization, and export redacted files securely. Built for legal, healthcare, research, and compliance professionals.
 
 ---
 
@@ -81,7 +81,6 @@ Autonymous/
 ├── docker-compose.yml        # (Optional) For local multi-service dev
 ├── LICENSE
 ├── README.md
-└── SaaS_Document_Anonymizer_Roadmap.md
 ```
 
 **Key Points:**
